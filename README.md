@@ -8,6 +8,8 @@ My Name Is Radin & I am a FrontEnd developer😎 Nice to meet You Friend 😍�
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /> 
 <br />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<br />
+![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!--
 **radinpayam/radinpayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
