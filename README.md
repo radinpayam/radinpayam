@@ -9,6 +9,8 @@ My Name Is Radin & I am a FrontEnd developer😎 Nice to meet You Friend 😍�
 <br />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <br />
+<br />
+<br />
 ![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!--
 **radinpayam/radinpayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
