@@ -18,7 +18,6 @@ My Name Is Radin & I am a FrontEnd developer😎 Nice to meet You Friend 😍�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/radinpayam/radinpayam/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!--
 **radinpayam/radinpayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
