@@ -1,7 +1,6 @@
 # Hi there 👋
 My Name Is Radin & I am a FrontEnd developer😎 Nice to meet You Friend 😍😍❤️❤️
-# Skils & Softwares
-:
+# Skils & Softwares:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,vue,nuxt,typescript,vscode,git,github,postman" />
