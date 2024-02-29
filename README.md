@@ -3,7 +3,7 @@ My Name Is Radin & I am a FrontEnd developer😎 Nice to meet You Friend 😍�
 # Skils:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,sass,vue,nuxt,tailwind,javascript,typescript,git,github,postman,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,sass,vue,nuxt,tailwind,javascript,typescript,git,github,postman,bootstrap" />
   </a>
 </p>
 <br />
