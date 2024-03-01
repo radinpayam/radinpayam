@@ -3,9 +3,9 @@ My Name Is Radin & I am a FrontEnd developer😎 Nice to meet You Friend 😍�
 # Skills & Softwares:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,vue,nuxt" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript" />
     <br />
-    <img src="https://skillicons.dev/icons?i=typescript,vscode,git,github,postman"
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,typescript,vscode,git,github,postman"
   </a>
 </p>
 <div align="center">
